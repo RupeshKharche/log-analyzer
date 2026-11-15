@@ -1,0 +1,14 @@
+2026-10-20 14:32:10 INFO [auth] User login successful
+2026-10-20 14:32:11 ERROR [db] Connection timeout
+2026-10-20 14:32:12 WARN [api] rate limited
+2026-10-20 14:32:13 DEBUG [auth] token refreshed
+2026-10-20 14:32:14 FATAL [db] Database unavailable
+2026-10-20 14:32:15 INFO [api] request handled
+2026-10-20 14:32:16 ERROR [auth] Invalid request
+2026-10-20 14:32:17 INFO [db] Query completed
+2026-10-20 14:32:18 WARN [api] Slow response
+2026-10-20 14:33:00 ERROR [db] Connection timeout
+2026-10-20 14:33:05 INFO [auth] User logout
+this is a malformed line
+2026-10-20 14:34:00 DEBUG [worker] job started
+2026-10-20 14:34:01 DEBUG [worker] job finished
